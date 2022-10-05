@@ -15,7 +15,6 @@
  *
  * Description: doubly linked list node structure
  * for stack, queues, LIFO, FIFO Holberton project
- * Created by Afolabi
  */
 typedef struct stack_s
 {
